@@ -1,0 +1,105 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fanpai",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "01c7d5d1-7691-4833-a5c4-a7806a3e55d2"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "d02b857b-e297-4b9f-a410-5e6f8bb098b0"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "0ad95459-a8f6-4d5a-b18a-3044a889fc75"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "fbc8ca0f-f00f-47e9-8b89-c1b70c59eb5d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "a3127195-a38a-4a17-9992-0c8cee25faa4"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f6036650-e688-494b-a5b3-146de143a205"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "f542ea9a-2302-4922-8527-5f096e6b61ae"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "bfd76d15-7577-4f89-959f-b561bec8f6b7"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "40255ace-8264-434d-8d56-0ace1127d582"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "fc0dbd52-dc90-4588-836a-9312fa2ebc7d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "fb4d918b-6326-4ca5-b4e1-d5d014dee2a4"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0.5,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.75,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.69,
+            "y": 0.69
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

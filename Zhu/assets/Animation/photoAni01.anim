@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "photoAni01",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.48333333333333334,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": 839
+        },
+        {
+          "frame": 0.75,
+          "value": 588
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 588
+        },
+        {
+          "frame": 0.5,
+          "value": 839
+        },
+        {
+          "frame": 0.75,
+          "value": 588
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.48333333333333334,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": -125
+        },
+        {
+          "frame": 0.75,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.25,
+      "func": "goOk",
+      "params": []
+    }
+  ]
+}
