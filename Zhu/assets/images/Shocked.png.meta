@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9122013e-7077-4767-8c55-f3b69324b80c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Shocked": {
+      "ver": "1.0.3",
+      "uuid": "cd007321-cec1-4c8f-9c9c-ec5625c438ba",
+      "rawTextureUuid": "9122013e-7077-4767-8c55-f3b69324b80c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 96,
+      "height": 96,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
